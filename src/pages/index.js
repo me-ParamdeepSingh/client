@@ -1,0 +1,6 @@
+export { default as AdminLogin} from  './Admin/Login'
+export { default as AdminSignup} from  './Admin/Signup'
+export { default as Dashboard} from  './Admin/Dashboard'
+export { default as Home} from  './Home'
+export { default as Test} from  './Test'
+export { default as Products } from './Admin/Products'
